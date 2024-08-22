@@ -1,0 +1,13 @@
+{
+  "main_menu": {
+    "bottom_right": [
+      {
+        "text": "iotomr pack {{PACK_VERSION}} based on Fabulously Optimized",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/bennetrr/iotomr-pack"
+        }
+      }
+    ]
+  }
+}

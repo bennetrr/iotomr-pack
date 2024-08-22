@@ -1,0 +1,13 @@
+name = "iotomr"
+author = "bennetrr"
+version = "{{PACK_VERSION}}"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4196d0bb3935625cba96340c4e403385c76cb128dde95b1f22a2ceca5bcc8a6"
+
+[versions]
+fabric = "0.16.2"
+minecraft = "1.21.1"
