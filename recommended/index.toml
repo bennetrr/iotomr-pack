@@ -86,6 +86,21 @@ hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "90c02ad9c9a5d845453c8a27e33a8c37c7b308c8298c862eaa1c448ef532937a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
 metafile = true
@@ -211,6 +226,16 @@ hash = "0ccc4fed97855325f60ad11f87f29ba22f8b6f733d99ea97bf24c0a7af720b21"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
@@ -271,6 +296,11 @@ hash = "6b598cc85e66cc29aa8d2919b66ebf89473fbe5b062f8f5628071bf92865f9a7"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "197427b59c8b24eef976d58683f4211a8810f9fede63652f46fa19608707615a"
 metafile = true
@@ -278,6 +308,31 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6646f0a19b38b583cf44a68d5b31e17e1ad3104ec28121e49c5de73d214333ec"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "0d2d5eb3579e5184c796f06358b31b92befdf38f19dd731e9d591a87937aa7da"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5607c21ed488c02fec5ad17424d184cb7c1eb38536ed494184edc99ebd0b6a0e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
 metafile = true
 
 [[files]]
@@ -312,4 +367,19 @@ hash = "bafb9a44c5e5aa9ac0d99c83764d62aec5af70fea0cb1334ee6ca477e2a217f6"
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "624557bd5bc5291b849dc19c722d08afb52922092951b492851315130dae6784"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "4670d7c2b967ab6c7c2c0b4b46f9cd32698267bdb78a4af985f962c4c5338fbe"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
 metafile = true
