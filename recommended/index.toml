@@ -78,7 +78,7 @@ hash = "ed65ad0e3043b3ec64bef2a1f2f40d5f04b2ab45ec862789f622f78057bb02b3"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
+hash = "f0b3e966ead80fd6c02cafeb1da2d5cc0d1c6d49ef491a589d614fc16ddf2993"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "2a375a9423ee8b9f10bba8457433263412cb328484d94ddf284e467dd41ebf77"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
@@ -241,6 +246,11 @@ hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "3873dcd36167b0bb9f1e26d1a9292325b21584974f36f52884d5ba7dfb592e24"
 metafile = true
@@ -316,13 +326,13 @@ hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
+file = "mods/too-many-shortcuts.pw.toml"
+hash = "b505c89bd89ae3879b22aaafd56f19b762d20f71dcbe50099c9caf9e4736cbb3"
 metafile = true
 
 [[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "0d2d5eb3579e5184c796f06358b31b92befdf38f19dd731e9d591a87937aa7da"
+file = "mods/tweakeroo.pw.toml"
+hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
 metafile = true
 
 [[files]]
@@ -370,6 +380,20 @@ hash = "624557bd5bc5291b849dc19c722d08afb52922092951b492851315130dae6784"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_r633958_MC1.21.x.zip"
+hash = "1dc6b9bf9485d53c3e7574b603de3324a83c14c00179f15c599a946ffabf5315"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "c8de367e791fa5d6b903ff7154aee21ff66f57e4e484bc53189779c0041c05ba"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "4670d7c2b967ab6c7c2c0b4b46f9cd32698267bdb78a4af985f962c4c5338fbe"
 metafile = true
@@ -382,4 +406,14 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "f3a120184ceab49f87e3c2a9b8091578acb2202d444b7cc36837ab9cda79b689"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "8a98b97853c1acd591c51aecdd3010481f894b651a29af8262b07b30be60d4d7"
 metafile = true
