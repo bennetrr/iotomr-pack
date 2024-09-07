@@ -1,0 +1,37 @@
+name: Build modpack
+description: Builds a modpack for modrinth
+
+inputs:
+  edition:
+    description: Edition name
+    required: true
+  version:
+    description: Modpack version
+    required: true
+runs:
+  using: composite
+  steps:
+    - name: Install packwiz
+      run: |
+        wget -O ~/.local/bin/packwiz https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
+        chmod +x ~/.local/bin/packwiz
+      shell: bash
+      working-directory: ${{ inputs.edition }}
+
+    - name: Replace version placeholders
+      run: |
+        find . -type f -exec sed -i 's/{{PACK_VERSION}}/${{ inputs.version }}/g' {} +
+      shell: bash
+      working-directory: ${{ inputs.edition }}
+
+    - name: Build modrinth modpack
+      run: |
+        packwiz modrinth export
+      shell: bash
+      working-directory: ${{ inputs.edition }}
+
+    - name: Upload modpack as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: iotomr-${{ inputs.edition }}-${{ inputs.version }}.mrpack
+        path: ${{ inputs.edition }}/iotomr-${{ inputs.edition }}-${{ inputs.version }}.mrpack
