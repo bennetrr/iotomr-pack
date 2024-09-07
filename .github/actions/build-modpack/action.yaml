@@ -13,8 +13,8 @@ runs:
   steps:
     - name: Install packwiz
       run: |
-        wget -O ~/.local/bin/packwiz https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
-        chmod +x ~/.local/bin/packwiz
+        sudo wget -O /usr/bin/packwiz https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
+        chmod +x /usr/bin/packwiz
       shell: bash
       working-directory: ${{ inputs.edition }}
 
