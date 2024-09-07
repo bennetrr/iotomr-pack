@@ -11,12 +11,19 @@ inputs:
 runs:
   using: composite
   steps:
+    - name: Download packwiz
+      uses: dawidd6/action-download-artifact@v6
+      with:
+        github_token: ${{ github.token }}
+        repo: packwiz/packwiz
+        workflow: go.yml
+        name: Linux 64-bit x86
+
     - name: Install packwiz
       run: |
-        sudo wget -O /usr/bin/packwiz https://github.com/packwiz/packwiz/actions/runs/10602235974/artifacts/1866308035
-        chmod +x /usr/bin/packwiz
+        sudo mv packwiz /usr/bin/packwiz
+        sudo chmod +x /usr/bin/packwiz
       shell: bash
-      working-directory: ${{ inputs.edition }}
 
     - name: Replace version placeholders
       run: |
