@@ -57,6 +57,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | ------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅      | Improves the statistics screen with a new layout, filters and a search bar                                              |
 | [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅      | Adds more information to the F3 screen                                                                                  |
+| [ClientSort](https://modrinth.com/mod/clientsort)                         | ✅      | Adds inventory sorting                                                                                                  |
 | [Controlify](https://modrinth.com/mod/controlify)                         | ✅      | Adds controller support that is better than Bedrock's                                                                   |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)   | ✅      | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
 | [Debugify](https://modrinth.com/mod/debugify)                             | ✅      | Fixes [a set of bugs](https://wiki.download.fo/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
@@ -66,7 +67,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [MiniHUD](https://modrinth.com/mod/minihud)                               | ✅      | Adds lines of information to the screen                                                                                 |
 | [MixinTrace](https://modrinth.com/mod/mixintrace)                         | ✅      | Helps developers find the cause of crashes                                                                              |
 | [Mod Menu](https://modrinth.com/mod/modmenu)                              | ✅      | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!)                           |
-| [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)                   | i      | Adds inventory features like sorting and item scrolling                                                                 |
+| [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)                     | ✅      | Enhances inventory mouse mechanics                                                                                      |
 | [More Chat History](https://modrinth.com/mod/morechathistory)             | ✅      | Increases chat history limit                                                                                            |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)        | ✅      | A proximity voice chat for Minecraft with a variety of add-ons that offer additional features and functionalities       |
 | [Tweakeroo](https://modrinth.com/mod/tweakeroo)                           | ✅      | Adds many tweaks like map and shulker box preview, freecam, full brightness                                             |

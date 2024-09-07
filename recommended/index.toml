@@ -116,6 +116,11 @@ hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "36f49f472365580be759966e81f3ad2f7929472e8208695f4f8c6e47c23a772d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1e7b98b294a465610afeb5efaf3a055137af09f97e83521342f5b3b24f000b37"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "0bb4c79e97f3eb1a710d7621d028682068a7504b9c53be56b40bd57cd0c0ef6a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
