@@ -6,8 +6,8 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 ### Mods
 
-- ✅ = Included both modpacks
-- ❎ = Only included in the optional modpack
+- ✅ = Included both editions
+- 🔶 = Only included in the plus edition
 - i = currently incompatible
 
 #### Performance
