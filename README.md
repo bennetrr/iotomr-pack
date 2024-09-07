@@ -42,7 +42,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Iris Shaders](https://modrinth.com/mod/iris)                             | ✅      | Adds OptiFine's shaders support                                                                                          |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | i      | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix)                        | ✅      | Fixes transparent gaps in items and blocks                                                                               |
-| [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)         | ✅      | Shows a screen indicating the loading progress of mods                                                                   |
+| [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)         | i      | Shows a screen indicating the loading progress of mods                                                                   |
 | [MoreCulling](https://modrinth.com/mod/moreculling)                       | ✅      | Stops rendering hidden sides of certain blocks                                                                           |
 | [OptiGUI](https://modrinth.com/mod/optigui)                               | ✅      | Adds OptiFine's custom GUI support                                                                                       |
 | [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)  | ✅      | Makes the advancement pages bigger, adds a requirement list                                                              |
