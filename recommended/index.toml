@@ -10,11 +10,11 @@ hash = "41de371a9f107cd10cc4015a47bdb5bc580cd9c971b3831eafcbaa3992f16252"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
-hash = "172679853c572390656e510d183b4f17fda65df8a6cd9af6aa1a8e3dbfd804d5"
+hash = "a9155c42970144917f21ea15fd608e3bd4ec553efe319a2ec94047c75ecda6c7"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "43be43d3118af87c02fd57b89626052b03c67af5606ca2290110eb97fac6ed40"
+hash = "51618dd0915bd67e04a08e5aacd997dab84323ae1dacde4ca2e2208ff0403c07"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"

@@ -8,5 +8,5 @@
   PinnedTabs: [],
   LastSelectedTab: "",
   SpacingBetweenHorizontalTabs: 4,
-  SpacingBetweenPinnedTabs: 2,
+  SpacingBetweenPinnedTabs: 2
 }
