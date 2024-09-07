@@ -1,0 +1,22 @@
+{
+  "Generic": {
+    "freeCameraPlayerInputs": true
+  },
+  "GenericHotkeys": {
+    "openConfigGui": {
+      "keys": ""
+    }
+  },
+  "TweakToggles": {
+    "tweakChatPersistentText": true,
+    "tweakHandRestock": true
+  },
+  "TweakHotkeys": {
+    "tweakFreeCamera": {
+      "keys": "F4"
+    },
+    "tweakGammaOverride": {
+      "keys": "G"
+    }
+  }
+}
