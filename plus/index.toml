@@ -340,6 +340,11 @@ hash = "481281dcc5eb94fc3493a1289c62dcd398e5909263e3e5a070012100cb08cce9"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "f380f729c2bb69e7183333224d4468beb9728b834ee754a5a0a1ff53b9665b18"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "6b598cc85e66cc29aa8d2919b66ebf89473fbe5b062f8f5628071bf92865f9a7"
 metafile = true
