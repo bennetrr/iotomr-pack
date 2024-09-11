@@ -36,3 +36,11 @@ key_gui.xaero_zoom_out:key.keyboard.slash
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
+key_freelook.key.activate:key.keyboard.f6
+key_freelook.key.menu:key.keyboard.unknown
+key_key.replaymod.marker:key.keyboard.period
+key_key.scroll-for-worldedit.mode:key.keyboard.left.control
+key_key.scroll-for-worldedit.use:key.keyboard.left.alt
+key_key.scroll-for-worldedit.modifier:key.keyboard.left.shift
+key_Swap Render Mode:key.keyboard.unknown
+key_Toggle Render Mode:key.keyboard.unknown

@@ -1,0 +1,12 @@
+{
+  basics: {
+    cheating: "WHEN_CREATIVE"
+  },
+  appearance: {
+    theme: "DARK",
+    layout: {
+      // Declares the position of the search field.
+      searchFieldLocation: "BOTTOM_SIDE"
+    }
+  }
+}
