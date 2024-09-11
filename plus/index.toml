@@ -115,6 +115,16 @@ hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "a29fb487b21a4942e540076f376ff646b951c5b4dcd02f784898932346b83cf0"
+metafile = true
+
+[[files]]
+file = "mods/auto-lectern.pw.toml"
+hash = "6d18d0ee77431078c4cb509969df230fb2d3398610d80d5f4a106f9905a54165"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "90c02ad9c9a5d845453c8a27e33a8c37c7b308c8298c862eaa1c448ef532937a"
 metafile = true
@@ -340,6 +350,11 @@ hash = "481281dcc5eb94fc3493a1289c62dcd398e5909263e3e5a070012100cb08cce9"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "c35a2d6c48b65f253d5a5abee0aad1926c7a0701aa925c9793212acd3730b748"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
 hash = "f380f729c2bb69e7183333224d4468beb9728b834ee754a5a0a1ff53b9665b18"
 metafile = true
@@ -347,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "6b598cc85e66cc29aa8d2919b66ebf89473fbe5b062f8f5628071bf92865f9a7"
+metafile = true
+
+[[files]]
+file = "mods/scroll-for-worldedit.pw.toml"
+hash = "6cdd772ddcc36fc3b1844e98c8ae3b8cbf22db2060866c62a37e1a92cacfe728"
 metafile = true
 
 [[files]]
