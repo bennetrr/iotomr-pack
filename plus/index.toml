@@ -230,6 +230,11 @@ hash = "286845bf12586c4e2ade76793c426243fd4699f02a51d076415050214abc67fc"
 metafile = true
 
 [[files]]
+file = "mods/freelook.pw.toml"
+hash = "e7fca1f44fd8058aac36c2fe5f0773e0ccb96e73081a5ec7284426b7c0204f76"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "b0479f25fa47d29a6f0f3d09df3859efc2fed95d829e24ee70765227115b8833"
 metafile = true
