@@ -34,15 +34,15 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Better Mount Hud](https://modrinth.com/mod/better-mount-hud)             | ✅     | Shows horse health and player's food via HUD at the same time, automatically changes to jump bar when jumping with horse |
 | [Capes](https://modrinth.com/mod/capes)                                   | ✅     | Adds OptiFine's and other mods' capes                                                                                    |
 | [Chat heads](https://modrinth.com/mod/chat-heads)                         | ✅     | Adds the players heads in front of chat messages                                                                         |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | i      | Adds OptiFine's custom item textures support                                                                             |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | ✅     | Adds OptiFine's custom item textures support                                                                             |
 | [Continuity](https://modrinth.com/mod/continuity)                         | ✅     | Adds OptiFine's connected textures support                                                                               |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features)   | ✅     | Adds OptiFine's custom entity models                                                                                     |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✅     | Adds OptiFine's random and emissive mobs support                                                                         |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)                 | ✅     | Adds custom skybox support                                                                                               |
 | [Iris Shaders](https://modrinth.com/mod/iris)                             | ✅     | Adds OptiFine's shaders support                                                                                          |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | i      | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | ✅i    | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix)                        | ✅     | Fixes transparent gaps in items and blocks                                                                               |
-| [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)         | i      | Shows a screen indicating the loading progress of mods                                                                   |
+| [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)         | ✅i    | Shows a screen indicating the loading progress of mods                                                                   |
 | [MoreCulling](https://modrinth.com/mod/moreculling)                       | ✅     | Stops rendering hidden sides of certain blocks                                                                           |
 | [OptiGUI](https://modrinth.com/mod/optigui)                               | ✅     | Adds OptiFine's custom GUI support                                                                                       |
 | [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)  | ✅     | Makes the advancement pages bigger, adds a requirement list                                                              |
@@ -76,6 +76,15 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)            | ✅     | World map with waypoints                                                                                                |
 | [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)         | ✅     | Keeps your settings when updating the modpack                                                                           |
 | [Zoomify](https://modrinth.com/mod/zoomify)                               | ✅     | Adds a scrollable and customizable zoom feature                                                                         |
+| [Auto Lectern](https://modrinth.com/mod/auto-lectern)                     | 🔶     | Automates the lectern replacing to get specific enchanted books from librarians                                         |
+| [Armor Poser](https://modrinth.com/mod/armor-poser)                       | 🔶     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
+| [Freelook](https://modrinth.com/mod/freelook)                             | 🔶     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
+| [ReplayMod](https://modrinth.com/mod/replaymod)                           | 🔶     | Allows you to record, replay and share your gaming experience                                                           |
+| [Roughly Enough Items](https://modrinth.com/mod/rei)                      | 🔶     | Shows all items with recipes and usages                                                                                 |
+| [Scroll for WorldEdit](https://modrinth.com/mod/scroll-for-worldedit)     | 🔶     | Use the mouse wheel to move your WorldEdit selections and builds                                                        |
+| [Shulker+](https://modrinth.com/mod/shulker+)                             | 🔶     | Renders an item / label on top of shulker boxes                                                                         |
+| [WorldEdit](https://modrinth.com/mod/worldedit)                           | 🔶     | An in-game map editor with selections, schematics, copy and paste, brushes, and scripting                               |
+| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)                   | 🔶i    | Shows the area that is selected in WorldEdit in the world                                                               |
 
 #### Libraries
 
@@ -142,6 +151,26 @@ The resource pack can be put together at [vanillatweaks.net](https://vanillatwea
 | [Kappa Shader](https://modrinth.com/shader/kappa-shader)                         | ✅     |
 | [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
 
+### Keybinds
+
+| Mod               | Action                     | Keybind             |
+| ----------------- | -------------------------- | ------------------- |
+| ClientSort        | Sort Inventory             | Middle Mouse Button |
+| Simple Voice Chat | Mute Microphone            | <                   |
+| Simple Voice Chat | Open GUI                   | V                   |
+| Xaero's Minimap   | Enlarge                    | Y                   |
+| Xaero's Minimap   | New Waypoint               | B                   |
+| Xaero's Minimap   | Open Waypoint List         | ,                   |
+| Xaero's Minimap   | Quick Waypoint             | N                   |
+| Xaero's Minimap   | Zoom In                    | +                   |
+| Xaero's Minimap   | Zoom Out                   | -                   |
+| Xaero's World Map | Open World Map             | M                   |
+| Zoomify           | Zoom                       | C                   |
+| Iris              | Toggle Shaders             | K                   |
+| MiniHUD           | Toggle Light Level Overlay | F7                  |
+| Tweakeroo         | Toggle Freecam             | F4                  |
+| Tweakeroo         | Toggle Gamma Override      | G                   |
+
 ## Server Side Content
 
 This modpack does not provide a server side modpack, however some mods need to be installed on the server to support all features the modpack offers.
@@ -151,6 +180,8 @@ This modpack does not provide a server side modpack, however some mods need to b
 | Name                                                                          | 1.21.1 | Description                                                                                                       |
 | ----------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------- |
 | [Audio Player](https://modrinth.com/mod/audioplayer)                          | ✅     | Enables the players to create custom music discs and horns                                                        |
+| [Armor Poser](https://modrinth.com/mod/armor-poser)                           | ✅     | Adds a GUI for armor stands that lets you set its pose and change other properties                                |
+| [Better Statistics Screen](https://modrinth.com/mod/better-stats)             | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                        |
 | [Carpet](https://modrinth.com/mod/carpet)                                     | ✅     | Bug fixes                                                                                                         |
 | [Carpet Extra](https://modrinth.com/mod/carpet-extra)                         | ✅     | Bug fixes                                                                                                         |
 | [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | ✅     | Bug fixes                                                                                                         |
@@ -181,18 +212,3 @@ This modpack does not provide a server side modpack, however some mods need to b
   - Universal Dyeing
   - Craftable Bundles (Rabbit Hide)
 - [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks)
-
-## Optional
-
-- [Bobby](https://modrinth.com/mod/bobby)
-- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
-- [Freelook](https://modrinth.com/mod/freelook)
-- [ReplayMod](https://modrinth.com/mod/replaymod)
-- [WorldEdit](https://modrinth.com/mod/worldedit) (nur für SinglePlayer)
-  - [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)
-  - [Scroll for WorldEdit](https://modrinth.com/mod/scroll-for-worldedit)
-- [Roughly Enough Items](https://modrinth.com/mod/rei)
-  - [Roughly Enough Professions](https://modrinth.com/mod/roughly-enough-professions-rep)
-- [Auto Lectern](https://modrinth.com/mod/auto-lectern)
-- [Shulker+ - Minecraft Mod](https://modrinth.com/mod/shulker+)
-- Armour Statues
