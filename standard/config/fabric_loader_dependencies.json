@@ -4,7 +4,6 @@
     "fabricloader": { "+depends": { "fabricloader": ">=0.16.5" } },
     "minecraft": { "+recommends": { "iotomr": ">{{PACK_VERSION}}" } },
     "lambdynlights": { "recommends": {} },
-    "polytone": { "conflicts": {} },
-    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } }
+    "polytone": { "conflicts": {} }
   }
 }
