@@ -34,7 +34,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Better Mount Hud](https://modrinth.com/mod/better-mount-hud)             | ✅     | Shows horse health and player's food via HUD at the same time, automatically changes to jump bar when jumping with horse |
 | [Capes](https://modrinth.com/mod/capes)                                   | ✅     | Adds OptiFine's and other mods' capes                                                                                    |
 | [Chat heads](https://modrinth.com/mod/chat-heads)                         | ✅     | Adds the players heads in front of chat messages                                                                         |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | i      | Adds OptiFine's custom item textures support                                                                             |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | ✅     | Adds OptiFine's custom item textures support                                                                             |
 | [Continuity](https://modrinth.com/mod/continuity)                         | ✅     | Adds OptiFine's connected textures support                                                                               |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features)   | ✅     | Adds OptiFine's custom entity models                                                                                     |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✅     | Adds OptiFine's random and emissive mobs support                                                                         |
