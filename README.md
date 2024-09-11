@@ -153,23 +153,28 @@ The resource pack can be put together at [vanillatweaks.net](https://vanillatwea
 
 ### Keybinds
 
-| Mod               | Action                     | Keybind             |
-| ----------------- | -------------------------- | ------------------- |
-| ClientSort        | Sort Inventory             | Middle Mouse Button |
-| Simple Voice Chat | Mute Microphone            | <                   |
-| Simple Voice Chat | Open GUI                   | V                   |
-| Xaero's Minimap   | Enlarge                    | Y                   |
-| Xaero's Minimap   | New Waypoint               | B                   |
-| Xaero's Minimap   | Open Waypoint List         | ,                   |
-| Xaero's Minimap   | Quick Waypoint             | N                   |
-| Xaero's Minimap   | Zoom In                    | +                   |
-| Xaero's Minimap   | Zoom Out                   | -                   |
-| Xaero's World Map | Open World Map             | M                   |
-| Zoomify           | Zoom                       | C                   |
-| Iris              | Toggle Shaders             | K                   |
-| MiniHUD           | Toggle Light Level Overlay | F7                  |
-| Tweakeroo         | Toggle Freecam             | F4                  |
-| Tweakeroo         | Toggle Gamma Override      | G                   |
+| Mod                      | Action                     | Keybind             |
+| ------------------------ | -------------------------- | ------------------- |
+| ClientSort               | Sort Inventory             | Middle Mouse Button |
+| Simple Voice Chat        | Mute Microphone            | <                   |
+| Simple Voice Chat        | Open GUI                   | V                   |
+| Xaero's Minimap          | Enlarge                    | Y                   |
+| Xaero's Minimap          | New Waypoint               | B                   |
+| Xaero's Minimap          | Open Waypoint List         | ,                   |
+| Xaero's Minimap          | Quick Waypoint             | N                   |
+| Xaero's Minimap          | Zoom In                    | +                   |
+| Xaero's Minimap          | Zoom Out                   | -                   |
+| Xaero's World Map        | Open World Map             | M                   |
+| Zoomify                  | Zoom                       | C                   |
+| Iris                     | Toggle Shaders             | K                   |
+| MiniHUD                  | Toggle Light Level Overlay | F7                  |
+| Tweakeroo                | Toggle Freecam             | F4                  |
+| Tweakeroo                | Toggle Gamma Override      | G                   |
+| Freelook 🔶              | Activate Freelook          | F6                  |
+| ReplayMod 🔶             | Add Event Marker           | .                   |
+| Scroll for World Edit 🔶 | Alternate Scrolling        | Left Shift          |
+| Scroll for World Edit 🔶 | Scroll through modes       | Left Control        |
+| Scroll for World Edit 🔶 | Use selected mode          | Left Alt            |
 
 ## Server Side Content
 
