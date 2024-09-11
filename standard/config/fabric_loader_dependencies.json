@@ -1,7 +1,7 @@
 {
   "version": 1,
   "overrides": {
-    "fabricloader": { "+depends": { "fabricloader": ">=0.16.2" } },
+    "fabricloader": { "+depends": { "fabricloader": ">=0.16.5" } },
     "minecraft": { "+recommends": { "iotomr": ">{{PACK_VERSION}}" } },
     "lambdynlights": { "recommends": {} },
     "polytone": { "conflicts": {} },
