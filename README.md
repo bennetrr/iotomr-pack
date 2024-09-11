@@ -53,38 +53,38 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 #### Functional
 
-| Name                                                                                  | 1.21.1 | Description                                                                                                             |
-| ------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
-| [Better Statistics Screen](https://modrinth.com/mod/better-stats)                     | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
-| [BetterF3](https://modrinth.com/mod/betterf3)                                         | ✅     | Adds more information to the F3 screen                                                                                  |
-| [ClientSort](https://modrinth.com/mod/clientsort)                                     | ✅     | Adds inventory sorting                                                                                                  |
-| [Controlify](https://modrinth.com/mod/controlify)                                     | ✅     | Adds controller support that is better than Bedrock's                                                                   |
-| [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)               | ✅     | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
-| [Debugify](https://modrinth.com/mod/debugify)                                         | ✅     | Fixes [a set of bugs](https://wiki.download.fo/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
-| [e4mc](https://modrinth.com/mod/e4mc)                                                 | ✅     | Allows opening worlds to public access the same way you can open to LAN                                                 |
-| [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)             | ✅     | Adds OptiFine resource pack support to FabricSkyboxes                                                                   |
-| [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)                       | ✅     | Adds modpack's clickable version number in title screen's bottom corner                                                 |
-| [MiniHUD](https://modrinth.com/mod/minihud)                                           | ✅     | Adds lines of information to the screen                                                                                 |
-| [MixinTrace](https://modrinth.com/mod/mixintrace)                                     | ✅     | Helps developers find the cause of crashes                                                                              |
-| [Mod Menu](https://modrinth.com/mod/modmenu)                                          | ✅     | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!)                           |
-| [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)                                 | ✅     | Enhances inventory mouse mechanics                                                                                      |
-| [More Chat History](https://modrinth.com/mod/morechathistory)                         | ✅     | Increases chat history limit                                                                                            |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)                    | ✅     | A proximity voice chat for Minecraft with a variety of add-ons that offer additional features and functionalities       |
-| [Tweakeroo](https://modrinth.com/mod/tweakeroo)                                       | ✅     | Adds many tweaks like map and shulker box preview, freecam, full brightness                                             |
-| [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)                     | ✅     | Adds support for meta keys such as ALT, CTRL, and SHIFT in keybinds and multiple binds for each keybind                 |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)                            | ✅     | Minimap with waypoints and entity radar                                                                                 |
-| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)                        | ✅     | World map with waypoints                                                                                                |
-| [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)                     | ✅     | Keeps your settings when updating the modpack                                                                           |
-| [Zoomify](https://modrinth.com/mod/zoomify)                                           | ✅     | Adds a scrollable and customizable zoom feature                                                                         |
-| [Auto Lectern](https://modrinth.com/mod/auto-lectern)                                 | 🔶     | Automates the lectern replacing to get specific enchanted books from librarians                                         |
-| [Armor Poser](https://modrinth.com/mod/armor-poser)                                   | 🔶     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
-| [Freelook](https://modrinth.com/mod/freelook)                                         | 🔶     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
-| [ReplayMod](https://modrinth.com/mod/replaymod)                                       | 🔶     | Allows you to record, replay and share your gaming experience                                                           |
-| [Roughly Enough Items](https://modrinth.com/mod/rei)                                  | 🔶     | Shows all items with recipes and usages                                                                                 |
-| [Scroll for WorldEdit](https://modrinth.com/mod/scroll-for-worldedit)                 | 🔶     | Use the mouse wheel to move your WorldEdit selections and builds                                                        |
-| [Shulker+](https://modrinth.com/mod/shulker+)                                         | 🔶     | Renders an item / label on top of shulker boxes                                                                         |
-| [WorldEdit](https://modrinth.com/mod/worldedit)                                       | 🔶     | An in-game map editor with selections, schematics, copy and paste, brushes, and scripting                               |
-| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)                               | 🔶i    | Shows the area that is selected in WorldEdit in the world                                                               |
+| Name                                                                      | 1.21.1 | Description                                                                                                             |
+| ------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
+| [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
+| [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅     | Adds more information to the F3 screen                                                                                  |
+| [ClientSort](https://modrinth.com/mod/clientsort)                         | ✅     | Adds inventory sorting                                                                                                  |
+| [Controlify](https://modrinth.com/mod/controlify)                         | ✅     | Adds controller support that is better than Bedrock's                                                                   |
+| [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)   | ✅     | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
+| [Debugify](https://modrinth.com/mod/debugify)                             | ✅     | Fixes [a set of bugs](https://wiki.download.fo/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
+| [e4mc](https://modrinth.com/mod/e4mc)                                     | ✅     | Allows opening worlds to public access the same way you can open to LAN                                                 |
+| [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ✅     | Adds OptiFine resource pack support to FabricSkyboxes                                                                   |
+| [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)           | ✅     | Adds modpack's clickable version number in title screen's bottom corner                                                 |
+| [MiniHUD](https://modrinth.com/mod/minihud)                               | ✅     | Adds lines of information to the screen                                                                                 |
+| [MixinTrace](https://modrinth.com/mod/mixintrace)                         | ✅     | Helps developers find the cause of crashes                                                                              |
+| [Mod Menu](https://modrinth.com/mod/modmenu)                              | ✅     | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!)                           |
+| [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)                     | ✅     | Enhances inventory mouse mechanics                                                                                      |
+| [More Chat History](https://modrinth.com/mod/morechathistory)             | ✅     | Increases chat history limit                                                                                            |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)        | ✅     | A proximity voice chat for Minecraft with a variety of add-ons that offer additional features and functionalities       |
+| [Tweakeroo](https://modrinth.com/mod/tweakeroo)                           | ✅     | Adds many tweaks like map and shulker box preview, freecam, full brightness                                             |
+| [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)         | ✅     | Adds support for meta keys such as ALT, CTRL, and SHIFT in keybinds and multiple binds for each keybind                 |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)                | ✅     | Minimap with waypoints and entity radar                                                                                 |
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)            | ✅     | World map with waypoints                                                                                                |
+| [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)         | ✅     | Keeps your settings when updating the modpack                                                                           |
+| [Zoomify](https://modrinth.com/mod/zoomify)                               | ✅     | Adds a scrollable and customizable zoom feature                                                                         |
+| [Auto Lectern](https://modrinth.com/mod/auto-lectern)                     | 🔶     | Automates the lectern replacing to get specific enchanted books from librarians                                         |
+| [Armor Poser](https://modrinth.com/mod/armor-poser)                       | 🔶     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
+| [Freelook](https://modrinth.com/mod/freelook)                             | 🔶     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
+| [ReplayMod](https://modrinth.com/mod/replaymod)                           | 🔶     | Allows you to record, replay and share your gaming experience                                                           |
+| [Roughly Enough Items](https://modrinth.com/mod/rei)                      | 🔶     | Shows all items with recipes and usages                                                                                 |
+| [Scroll for WorldEdit](https://modrinth.com/mod/scroll-for-worldedit)     | 🔶     | Use the mouse wheel to move your WorldEdit selections and builds                                                        |
+| [Shulker+](https://modrinth.com/mod/shulker+)                             | 🔶     | Renders an item / label on top of shulker boxes                                                                         |
+| [WorldEdit](https://modrinth.com/mod/worldedit)                           | 🔶     | An in-game map editor with selections, schematics, copy and paste, brushes, and scripting                               |
+| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)                   | 🔶i    | Shows the area that is selected in WorldEdit in the world                                                               |
 
 #### Libraries
 
@@ -151,6 +151,26 @@ The resource pack can be put together at [vanillatweaks.net](https://vanillatwea
 | [Kappa Shader](https://modrinth.com/shader/kappa-shader)                         | ✅     |
 | [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
 
+### Keybinds
+
+| Mod               | Action                     | Keybind             |
+| ----------------- | -------------------------- | ------------------- |
+| ClientSort        | Sort Inventory             | Middle Mouse Button |
+| Simple Voice Chat | Mute Microphone            | <                   |
+| Simple Voice Chat | Open GUI                   | V                   |
+| Xaero's Minimap   | Enlarge                    | Y                   |
+| Xaero's Minimap   | New Waypoint               | B                   |
+| Xaero's Minimap   | Open Waypoint List         | ,                   |
+| Xaero's Minimap   | Quick Waypoint             | N                   |
+| Xaero's Minimap   | Zoom In                    | +                   |
+| Xaero's Minimap   | Zoom Out                   | -                   |
+| Xaero's World Map | Open World Map             | M                   |
+| Zoomify           | Zoom                       | C                   |
+| Iris              | Toggle Shaders             | K                   |
+| MiniHUD           | Toggle Light Level Overlay | F7                  |
+| Tweakeroo         | Toggle Freecam             | F4                  |
+| Tweakeroo         | Toggle Gamma Override      | G                   |
+
 ## Server Side Content
 
 This modpack does not provide a server side modpack, however some mods need to be installed on the server to support all features the modpack offers.
@@ -161,7 +181,7 @@ This modpack does not provide a server side modpack, however some mods need to b
 | ----------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------- |
 | [Audio Player](https://modrinth.com/mod/audioplayer)                          | ✅     | Enables the players to create custom music discs and horns                                                        |
 | [Armor Poser](https://modrinth.com/mod/armor-poser)                           | ✅     | Adds a GUI for armor stands that lets you set its pose and change other properties                                |
-| [Better Statistics Screen](https://modrinth.com/mod/better-stats)                     | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
+| [Better Statistics Screen](https://modrinth.com/mod/better-stats)             | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                        |
 | [Carpet](https://modrinth.com/mod/carpet)                                     | ✅     | Bug fixes                                                                                                         |
 | [Carpet Extra](https://modrinth.com/mod/carpet-extra)                         | ✅     | Bug fixes                                                                                                         |
 | [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | ✅     | Bug fixes                                                                                                         |
