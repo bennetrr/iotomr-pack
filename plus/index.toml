@@ -370,6 +370,11 @@ hash = "6cdd772ddcc36fc3b1844e98c8ae3b8cbf22db2060866c62a37e1a92cacfe728"
 metafile = true
 
 [[files]]
+file = "mods/shulker+.pw.toml"
+hash = "39229a29962bcc6378b8986192aaa142d12d9a5da8420daf6345a88052f846d9"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
 metafile = true
