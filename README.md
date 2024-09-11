@@ -184,17 +184,18 @@ This modpack does not provide a server side modpack, however some mods need to b
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)             | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                        |
 | [Carpet](https://modrinth.com/mod/carpet)                                     | ✅     | Bug fixes                                                                                                         |
 | [Carpet Extra](https://modrinth.com/mod/carpet-extra)                         | ✅     | Bug fixes                                                                                                         |
-| [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | ✅     | Bug fixes                                                                                                         |
+| [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | ✅i    | Bug fixes                                                                                                         |
 | [Cloth Config](https://modrinth.com/mod/cloth-config)                         | ✅     | Library                                                                                                           |
 | [Fabric API](https://modrinth.com/mod/fabric-api/)                            | ✅     | Library                                                                                                           |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                          | ✅     | Reduces RAM usage                                                                                                 |
-| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)       | ✅     | Library                                                                                                           |
-| [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)               | ✅     | Adds right click harvesting                                                                                       |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)       | ✅     | Library for Harvest with ease                                                                                     |
+| [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)               | ✅i    | Adds right click harvesting                                                                                       |
 | [Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace)             | ✅     | Lets leaves decay faster                                                                                          |
 | [Lithium](https://modrinth.com/mod/lithium)                                   | ✅     | Optimizes game physics and chunk loading                                                                          |
 | [Spark](https://modrinth.com/mod/spark)                                       | ✅     | Profiler                                                                                                          |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)            | ✅     | A proximity voice chat for Minecraft with a variety of add-ons that offer additional features and functionalities |
 | [Simple Voice Chat Enhanced Groups](https://modrinth.com/mod/enhanced-groups) | ✅     | Fixes for Simple Voice Chat's groups                                                                              |
+| [TCDCommons API](https://modrinth.com/mod/tcdcommons)                         | ✅     | Library for Better Statistics Screen                                                                              |
 | [View Distance Fix](https://modrinth.com/mod/view-distance-fix)               | ✅     | Fixes the fog when having a higher render distance on the client than on the server                               |
 
 ### Datapacks
