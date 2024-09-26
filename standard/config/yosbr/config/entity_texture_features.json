@@ -2,5 +2,6 @@
   "illegalPathSupportMode": "Entity",
   "skinFeaturesEnabled": false,
   "skinFeaturesEnableTransparency": false,
-  "hideConfigButton": true
+  "hideConfigButton": true,
+  "configButtonLoc": "OFF"
 }

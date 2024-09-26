@@ -42,7 +42,6 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Iris Shaders](https://modrinth.com/mod/iris)                             | ✅     | Adds OptiFine's shaders support                                                                                          |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | ✅i    | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix)                        | ✅     | Fixes transparent gaps in items and blocks                                                                               |
-| [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)         | ✅i    | Shows a screen indicating the loading progress of mods                                                                   |
 | [MoreCulling](https://modrinth.com/mod/moreculling)                       | ✅     | Stops rendering hidden sides of certain blocks                                                                           |
 | [OptiGUI](https://modrinth.com/mod/optigui)                               | ✅     | Adds OptiFine's custom GUI support                                                                                       |
 | [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)  | ✅     | Makes the advancement pages bigger, adds a requirement list                                                              |
@@ -193,8 +192,7 @@ This modpack does not provide a server side modpack, however some mods need to b
 | [Cloth Config](https://modrinth.com/mod/cloth-config)                         | ✅     | Library                                                                                                           |
 | [Fabric API](https://modrinth.com/mod/fabric-api/)                            | ✅     | Library                                                                                                           |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                          | ✅     | Reduces RAM usage                                                                                                 |
-| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)       | ✅     | Library for Harvest with ease                                                                                     |
-| [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)               | ✅i    | Adds right click harvesting                                                                                       |
+| [Actually Harvest](https://modrinth.com/mod/actually-harvest)                  | ✅     | Adds right click harvesting                                                                                       |
 | [Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace)             | ✅     | Lets leaves decay faster                                                                                          |
 | [Lithium](https://modrinth.com/mod/lithium)                                   | ✅     | Optimizes game physics and chunk loading                                                                          |
 | [Spark](https://modrinth.com/mod/spark)                                       | ✅     | Profiler                                                                                                          |
