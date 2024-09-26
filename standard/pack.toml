@@ -1,12 +1,12 @@
 name = "iotomr-standard"
 author = "bennetrr"
-version = "{{PACK_VERSION}}"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8e4dfde25c58493a6dc58fb5263cebfcff5c82e6f917cc0e9a2995004c2b238"
+hash = "54890d00d16e48819e8de9c25bc6d255019b506ab3dab51f517275fda025fdcc"
 
 [versions]
 fabric = "0.16.5"

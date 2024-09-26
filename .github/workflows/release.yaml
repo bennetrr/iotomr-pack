@@ -24,35 +24,35 @@ jobs:
         uses: wemogy/get-release-version-action@v4.3.2
         with:
           prefix: v
-          create-tag: 'true'
+          create-tag: "true"
           git-username: bennetrr
-          git-email: bennet@ranft.ing
+          git-email: 76742318+bennetrr@users.noreply.github.com
           mode: semantic
 
   build-standard:
     name: Build standard edition
-    needs: [ setup ]
+    needs: [setup]
     runs-on: ubuntu-latest
     permissions:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Build modpack
         uses: ./.github/actions/build-modpack
         with:
           edition: standard
           version: ${{ needs.setup.outputs.version }}
-  
+
   build-plus:
     name: Build plus edition
-    needs: [ setup ]
+    needs: [setup]
     runs-on: ubuntu-latest
     permissions:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Build modpack
         uses: ./.github/actions/build-modpack
         with:
