@@ -34,7 +34,7 @@ hash = "c5c840f33d47315bf04a7f759a9e08b19acef1a445849d0786c4bbeacdde4f07"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "26455b09e428991d4a5821f547e16d8f6428bd31948233f9aced98fb7fe7ff13"
+hash = "174a7821f38111cdd72f65434864e955feb4539d87654dcb4eaa66e3183f7e25"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
