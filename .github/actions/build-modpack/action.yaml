@@ -42,8 +42,7 @@ runs:
 
     - name: Build modrinth modpack
       run: |
-        # Check if a "failed to download" error was printed and if so, exit, because packwiz does not exit on error
-        packwiz modrinth export | tee /dev/tty | grep -q 'failed to download' && { echo "Error: Download of a file failed."; exit 2; }
+        packwiz modrinth export
       shell: bash
       working-directory: ${{ inputs.edition }}
 
