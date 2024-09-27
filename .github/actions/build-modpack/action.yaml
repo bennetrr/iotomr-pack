@@ -25,18 +25,27 @@ runs:
         sudo chmod +x /usr/bin/packwiz
       shell: bash
 
+    - name: Setup python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12' 
+
     - name: Install yq and jq
       run: |
-        sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
-        sudo chmod +x /usr/bin/yq
         sudo apt install -y jq
+        pip install yq
       shell: bash
 
     - name: Set version fields
       run: |
-        tomlq -t '.version = "${{ inputs.version }}"' pack.toml > pack.toml.tmp && mv pack.toml.tmp pack.toml
-        jq '.overrides.minecraft["+recommends"].iotomr = ">${{ inputs.version }}"' config/fabric_loader_dependencies.json > fld.json.tmp && mv fld.json.tmp config/fabric_loader_dependencies.json
-        jq '.main_menu.bottom_right[0].text |= sub("{{PACK_VERSION}}"; "${{ inputs.version }}")' config/isxander-main-menu-credits.json > mmc.json.tmp && mv mmc.json.tmp config/isxander-main-menu-credits.json
+        tomlq -t '.version = "${{ inputs.version }}"' pack.toml > pack.toml.tmp
+        mv pack.toml.tmp pack.toml
+        
+        jq '.overrides.minecraft["+recommends"].iotomr = ">${{ inputs.version }}"' config/fabric_loader_dependencies.json > fld.json.tmp
+        mv fld.json.tmp config/fabric_loader_dependencies.json
+
+        jq '.main_menu.bottom_right[0].text |= sub("{{PACK_VERSION}}"; "${{ inputs.version }}")' config/isxander-main-menu-credits.json > mmc.json.tmp
+        mv mmc.json.tmp config/isxander-main-menu-credits.json
       shell: bash
       working-directory: ${{ inputs.edition }}
 
