@@ -30,7 +30,7 @@ runs:
       with:
         python-version: '3.12' 
 
-    - name: Install yq and jq
+    - name: Install jq and yq
       run: |
         sudo apt install -y jq
         pip install yq
