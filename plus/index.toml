@@ -273,6 +273,11 @@ hash = "bd1257c27029beccd2ff8c559d5126dd8bea875643d5a6a192474129e90a801e"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
+metafile = true
+
+[[files]]
 file = "mods/languagereload.pw.toml"
 hash = "ec1b08599de799e00f251a4828793d2f88ac50c7c9ff78b25b5c9c7455e1e12f"
 metafile = true
