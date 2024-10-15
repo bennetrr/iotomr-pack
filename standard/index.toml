@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "9f55ddf355ed1a3af8c67ee97d22f7001b656f816ec34acbd874f0c08893d8fe"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3d203188031a41900387b8a90c2525883f4c6a2f2af2d81289a6890c7dcbef3e"
+hash = "9410708753da738c6ffa159927e0ebed1865afa0c9733e8d7bf04c674c7ca0f4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -11,10 +15,6 @@ hash = "b20a34be28f3fbc7f3def054c09d949dd1959acd9247ab41edf16acb3d675b93"
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "a9155c42970144917f21ea15fd608e3bd4ec553efe319a2ec94047c75ecda6c7"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "51618dd0915bd67e04a08e5aacd997dab84323ae1dacde4ca2e2208ff0403c07"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "147d49f6d81eb9b09a097d2af85b8c8bf3a348743dc075bcc52faf3b4e800123"
+hash = "34d39796ae3dbb41308bde45cfa2c7b7b0b707b62459fb76b3b20a019dc34a70"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "765d106a839a861f41023980da128e522062e494567f0471de493d31748d96b0"
+hash = "dd27444b02535763c3e41b523dfd585a6baadbef797767b70ce4cdaad4e131d9"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
+hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
+hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "8f60b7c45bd05bba079dde422362467d1ab2f7023df8aff98753fa6c3917af0a"
+hash = "53901bda99bb1a53faf7f2d23dc7b5b1f5f71855e606805872f47b8cb8bdc437"
 metafile = true
 
 [[files]]
@@ -405,12 +405,8 @@ hash = "290391e0d98878f0a9218891f04e7fd8d6259c8feb032a3c503c75007a3189ef"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "043d8f5622d457d189413de1b24ba684c8810a0f664d80fdfb7708b531f389ce"
-
-[[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "f86da31b085e58263648a7aa16a391a35aa25c1312e8f84abab8f99249775352"
+hash = "386ca449df238e526d6e10c704a0c605cf90ff5369f26bb75f15bba4595886f5"
 metafile = true
 
 [[files]]
@@ -420,6 +416,11 @@ hash = "1dc6b9bf9485d53c3e7574b603de3324a83c14c00179f15c599a946ffabf5315"
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mod-menu-helper.pw.toml"
+hash = "fdd1676ce8b587a0936e2608b4b441348c37b907be2ac2f113746d0ad588ced9"
 metafile = true
 
 [[files]]
