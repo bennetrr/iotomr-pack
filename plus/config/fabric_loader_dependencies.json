@@ -3,19 +3,13 @@
   "overrides": {
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.16.5"
+        "fabricloader": ">=0.16.7"
       }
     },
     "minecraft": {
       "+recommends": {
         "iotomr": ">0.0.1"
       }
-    },
-    "lambdynlights": {
-      "recommends": {}
-    },
-    "polytone": {
-      "conflicts": {}
     }
   }
 }
