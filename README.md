@@ -40,7 +40,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✅     | Adds OptiFine's random and emissive mobs support                                                                         |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)                 | ✅     | Adds custom skybox support                                                                                               |
 | [Iris Shaders](https://modrinth.com/mod/iris)                             | ✅     | Adds OptiFine's shaders support                                                                                          |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | ✅i    | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | ✅     | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix)                        | ✅     | Fixes transparent gaps in items and blocks                                                                               |
 | [MoreCulling](https://modrinth.com/mod/moreculling)                       | ✅     | Stops rendering hidden sides of certain blocks                                                                           |
 | [OptiGUI](https://modrinth.com/mod/optigui)                               | ✅     | Adds OptiFine's custom GUI support                                                                                       |
@@ -192,7 +192,7 @@ This modpack does not provide a server side modpack, however some mods need to b
 | [Cloth Config](https://modrinth.com/mod/cloth-config)                         | ✅     | Library                                                                                                           |
 | [Fabric API](https://modrinth.com/mod/fabric-api/)                            | ✅     | Library                                                                                                           |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                          | ✅     | Reduces RAM usage                                                                                                 |
-| [Actually Harvest](https://modrinth.com/mod/actually-harvest)                  | ✅     | Adds right click harvesting                                                                                       |
+| [Actually Harvest](https://modrinth.com/mod/actually-harvest)                 | ✅     | Adds right click harvesting                                                                                       |
 | [Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace)             | ✅     | Lets leaves decay faster                                                                                          |
 | [Lithium](https://modrinth.com/mod/lithium)                                   | ✅     | Optimizes game physics and chunk loading                                                                          |
 | [Spark](https://modrinth.com/mod/spark)                                       | ✅     | Profiler                                                                                                          |
