@@ -4,11 +4,11 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 ## Modpack Content
 
-### Mods
-
 - ✅ = Included both editions
 - 🔶 = Only included in the plus edition
 - i = currently incompatible
+
+### Mods
 
 #### Performance
 
@@ -144,12 +144,13 @@ The resource pack can be put together at [vanillatweaks.net](https://vanillatwea
 
 | Name                                                                             | 1.21.1 |
 | -------------------------------------------------------------------------------- | ------ |
+| [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
 | [BSL Shaders](https://modrinth.com/shader/bsl-shaders)                           | ✅     |
 | [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) | ✅     |
 | [Complementary Unbound](https://modrinth.com/shader/complementary-unbound)       | ✅     |
-| [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)               | ✅     |
 | [Kappa Shader](https://modrinth.com/shader/kappa-shader)                         | ✅     |
-| [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
+| [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)               | ✅     |
+| [Solas Shader](https://modrinth.com/shader/solas-shader)                         | ✅     |
 
 ### Keybinds
 
