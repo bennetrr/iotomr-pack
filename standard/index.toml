@@ -462,3 +462,8 @@ metafile = true
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "8a98b97853c1acd591c51aecdd3010481f894b651a29af8262b07b30be60d4d7"
 metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "2e52b786e9fb8c2fdb88aecdfbf0a766898a24ffb875c907c14c4aaa0db8a47e"
+metafile = true
