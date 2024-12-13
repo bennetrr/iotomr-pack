@@ -2,6 +2,6 @@ name = "Mod Menu Helper"
 filename = "Mod Menu Helper.zip"
 
 [download]
-url = "https://github.com/Fabulously-Optimized/fabulously-optimized/raw/dc3dd3e938569472c4d179f15142814c2ae1b797/Packwiz/1.21.1/resourcepacks/Mod%20Menu%20Helper.zip"
+url = "https://github.com/Fabulously-Optimized/fabulously-optimized/raw/refs/heads/main/Packwiz/1.21.3/resourcepacks/Mod%20Menu%20Helper.zip"
 hash-format = "sha256"
-hash = "6e75ca294297ae1f32099298a56c15cebee3697f4858de398c3f1690df50552e"
+hash = "690140a32e60a631f62b8954ab54ea3b91570aecc95fed0e4d69b9da43dcf8a7"
