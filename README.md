@@ -6,7 +6,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 - ✅ = Included both editions
 - 🔶 = Only included in the plus edition
-- i = currently incompatible
+- i = temporarily incompatible
 
 ### Mods
 
@@ -15,14 +15,14 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | Name                                                        | 1.21.1 | 1.21.3 | Description                                                             |
 | ----------------------------------------------------------- | ------ | ------ | ----------------------------------------------------------------------- |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)         | ✅     | ✅     | Renders Minecraft slower if it is in the background to reduce CPU usage |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe)     | ✅     | ✅     | Makes chests, signs, beds, etc. render faster                           |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe)     | ✅     | i      | Makes chests, signs, beds, etc. render faster                           |
 | [Entity Culling](https://modrinth.com/mod/entityculling)    | ✅     | ✅     | Stops rendering entities that are behind walls                          |
 | [FastQuit](https://modrinth.com/mod/fastquit)               | ✅     | ✅     | Quit from single player worlds instantly                                |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)        | ✅     | ✅     | Reduces RAM usage                                                       |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | ✅     | ✅     | Optimizes mobs, container blocks, GUI, HUD                              |
 | [Language Reload](https://modrinth.com/mod/language-reload) | ✅     | ✅     | Makes language switching instant, adds a search bar                     |
 | [Lithium](https://modrinth.com/mod/lithium)                 | ✅     | ✅     | Optimizes game physics and chunk loading                                |
-| [ModernFix](https://modrinth.com/mod/modernfix)             | ✅     | ✅     | Improves performance, reduces RAM use, fixes bugs                       |
+| [ModernFix](https://modrinth.com/mod/modernfix)             | ✅     | i      | Improves performance, reduces RAM use, fixes bugs                       |
 | [Remove Reloading Screen](https://modrinth.com/mod/rrls)    | ✅     | ✅     | Makes resource packs load in the background                             |
 | [Sodium](https://modrinth.com/mod/sodium)                   | ✅     | ✅     | Optimizes general rendering to improve FPS, adds some graphics options  |
 
@@ -30,15 +30,16 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 | Name                                                                      | 1.21.1 | 1.21.3 | Description                                                                                                              |
 | ------------------------------------------------------------------------- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------ |
-| [Animatica](https://modrinth.com/mod/animatica)                           | ✅     | ✅     | Adds OptiFine's animated textures support                                                                                |
+| [Animatica](https://modrinth.com/mod/animatica)                           | ✅     | i      | Adds OptiFine's animated textures support                                                                                |
 | [Better Mount Hud](https://modrinth.com/mod/better-mount-hud)             | ✅     | ✅     | Shows horse health and player's food via HUD at the same time, automatically changes to jump bar when jumping with horse |
 | [Capes](https://modrinth.com/mod/capes)                                   | ✅     | ✅     | Adds OptiFine's and other mods' capes                                                                                    |
 | [Chat heads](https://modrinth.com/mod/chat-heads)                         | ✅     | ✅     | Adds the players heads in front of chat messages                                                                         |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | ✅     | ✅     | Adds OptiFine's custom item textures support                                                                             |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn)                         | ✅     | i      | Adds OptiFine's custom item textures support                                                                             |
 | [Continuity](https://modrinth.com/mod/continuity)                         | ✅     | ✅     | Adds OptiFine's connected textures support                                                                               |
 | [Entity Model Features](https://modrinth.com/mod/entity-model-features)   | ✅     | ✅     | Adds OptiFine's custom entity models                                                                                     |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✅     | ✅     | Adds OptiFine's random and emissive mobs support                                                                         |
-| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)                 | ✅     | ✅     | Adds custom skybox support                                                                                               |
+| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)                 | ✅     | i      | Adds custom skybox support                                                                                               |
+| [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ✅     | i      | FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies                                                             |
 | [Iris Shaders](https://modrinth.com/mod/iris)                             | ✅     | ✅     | Adds OptiFine's shaders support                                                                                          |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)           | ✅     | ✅     | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix)                        | ✅     | ✅     | Fixes transparent gaps in items and blocks                                                                               |
@@ -56,7 +57,8 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | ------------------------------------------------------------------------- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------- |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅     | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
 | [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅     | ✅     | Adds more information to the F3 screen                                                                                  |
-| [Click Through Updated](https://modrinth.com/mod/click-through-updated)   | ✅     | ✅     | Allows clicking through item frames and signs hanging in front of chests                                                |
+| [Click Through Updated](https://modrinth.com/mod/click-through-updated)   | ✅     |        | Allows clicking through item frames and signs hanging in front of chests                                                |
+| [ClickThrough Plus](https://modrinth.com/mod/clickthrough+)               |        | ✅     | Allows clicking through item frames and signs hanging in front of chests                                                |
 | [ClientSort](https://modrinth.com/mod/clientsort)                         | ✅     | ✅     | Adds inventory sorting                                                                                                  |
 | [Controlify](https://modrinth.com/mod/controlify)                         | ✅     | ✅     | Adds controller support that is better than Bedrock's                                                                   |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)   | ✅     | ✅     | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
@@ -76,15 +78,13 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)            | ✅     | ✅     | World map with waypoints                                                                                                |
 | [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)         | ✅     | ✅     | Keeps your settings when updating the modpack                                                                           |
 | [Zoomify](https://modrinth.com/mod/zoomify)                               | ✅     | ✅     | Adds a scrollable and customizable zoom feature                                                                         |
-| [Auto Lectern](https://modrinth.com/mod/auto-lectern)                     | 🔶     | 🔶     | Automates the lectern replacing to get specific enchanted books from librarians                                         |
+| [Auto Lectern](https://modrinth.com/mod/auto-lectern)                     | 🔶     | i      | Automates the lectern replacing to get specific enchanted books from librarians                                         |
 | [Armor Poser](https://modrinth.com/mod/armor-poser)                       | 🔶     | 🔶     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
 | [Freelook](https://modrinth.com/mod/freelook)                             | 🔶     | 🔶     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
 | [ReplayMod](https://modrinth.com/mod/replaymod)                           | 🔶     | 🔶     | Allows you to record, replay and share your gaming experience                                                           |
 | [Roughly Enough Items](https://modrinth.com/mod/rei)                      | 🔶     | 🔶     | Shows all items with recipes and usages                                                                                 |
-| [Scroll for WorldEdit](https://modrinth.com/mod/scroll-for-worldedit)     | 🔶     | 🔶     | Use the mouse wheel to move your WorldEdit selections and builds                                                        |
-| [Shulker+](https://modrinth.com/mod/shulker+)                             | 🔶     | 🔶     | Renders an item / label on top of shulker boxes                                                                         |
 | [WorldEdit](https://modrinth.com/mod/worldedit)                           | 🔶     | 🔶     | An in-game map editor with selections, schematics, copy and paste, brushes, and scripting                               |
-| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)                   | 🔶i    | 🔶i    | Shows the area that is selected in WorldEdit in the world                                                               |
+| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)                   | i      | i      | Shows the area that is selected in WorldEdit in the world                                                               |
 
 #### Libraries
 
@@ -96,7 +96,8 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Cloth Config API](https://modrinth.com/mod/cloth-config)                 | ✅     | ✅     |
 | [Fabric API](https://modrinth.com/mod/fabric-api)                         | ✅     | ✅     |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | ✅     | ✅     |
-| [Indium](https://modrinth.com/mod/indium)                                 | ✅     | ✅     |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)   |        | ✅     |
+| [Indium](https://modrinth.com/mod/indium)                                 | ✅     |        |
 | [MaLiLib](https://modrinth.com/mod/malilib)                               | ✅     | ✅     |
 | [TCDCommons API](https://modrinth.com/mod/tcdcommons)                     | ✅     | ✅     |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl)                      | ✅     | ✅     |
@@ -118,6 +119,7 @@ The resource pack can be put together at https://vanillatweaks.net/picker/resour
 
 - Visual Infested Stone (Items)
 - Visual Waxed Copper (Items)
+- Hunger Preview
 - Music Disc Redstone Level Preview
 - Sticky Piston Sides
 - Directional Hoppers
@@ -127,7 +129,7 @@ The resource pack can be put together at https://vanillatweaks.net/picker/resour
 - Brewing Guide
 - Visual Honey Stages
 - Visual Cauldron Stages
-- Visual Composer Stages
+- Visual Composter Stages
 - Visual Note Block Pitch
 - Arabic Numerals
 - Unobtrusive Scaffolding
@@ -135,10 +137,10 @@ The resource pack can be put together at https://vanillatweaks.net/picker/resour
 - No Pumpkin Overlay
 - Dark UI
 - Numbered Hotbar
+- Smoother Font
+- Clearer Wither Hearts
 - Colored Ping Indicator
 - Literal Gamerule Names
-- Clearer Wither Hearts
-- Smoother Font
 
 ### Shader Packs
 
@@ -154,28 +156,25 @@ The resource pack can be put together at https://vanillatweaks.net/picker/resour
 
 ### Keybinds
 
-| Mod                      | Action                     | Keybind             |
-| ------------------------ | -------------------------- | ------------------- |
-| ClientSort               | Sort Inventory             | Middle Mouse Button |
-| Simple Voice Chat        | Mute Microphone            | <                   |
-| Simple Voice Chat        | Open GUI                   | V                   |
-| Xaero's Minimap          | Enlarge                    | Y                   |
-| Xaero's Minimap          | New Waypoint               | B                   |
-| Xaero's Minimap          | Open Waypoint List         | ,                   |
-| Xaero's Minimap          | Quick Waypoint             | N                   |
-| Xaero's Minimap          | Zoom In                    | +                   |
-| Xaero's Minimap          | Zoom Out                   | -                   |
-| Xaero's World Map        | Open World Map             | M                   |
-| Zoomify                  | Zoom                       | C                   |
-| Iris                     | Toggle Shaders             | K                   |
-| MiniHUD                  | Toggle Light Level Overlay | F7                  |
-| Tweakeroo                | Toggle Freecam             | F4                  |
-| Tweakeroo                | Toggle Gamma Override      | G                   |
-| Freelook 🔶              | Activate Freelook          | F6                  |
-| ReplayMod 🔶             | Add Event Marker           | .                   |
-| Scroll for World Edit 🔶 | Alternate Scrolling        | Left Shift          |
-| Scroll for World Edit 🔶 | Scroll through modes       | Left Control        |
-| Scroll for World Edit 🔶 | Use selected mode          | Left Alt            |
+| Mod               | Action                     | Keybind             |
+| ----------------- | -------------------------- | ------------------- |
+| ClientSort        | Sort Inventory             | Middle Mouse Button |
+| Simple Voice Chat | Mute Microphone            | <                   |
+| Simple Voice Chat | Open GUI                   | V                   |
+| Xaero's Minimap   | Enlarge                    | Y                   |
+| Xaero's Minimap   | New Waypoint               | B                   |
+| Xaero's Minimap   | Open Waypoint List         | ,                   |
+| Xaero's Minimap   | Quick Waypoint             | N                   |
+| Xaero's Minimap   | Zoom In                    | +                   |
+| Xaero's Minimap   | Zoom Out                   | -                   |
+| Xaero's World Map | Open World Map             | M                   |
+| Zoomify           | Zoom                       | C                   |
+| Iris              | Toggle Shaders             | K                   |
+| MiniHUD           | Toggle Light Level Overlay | F7                  |
+| Tweakeroo         | Toggle Freecam             | F4                  |
+| Tweakeroo         | Toggle Gamma Override      | G                   |
+| Freelook 🔶       | Activate Freelook          | F6                  |
+| ReplayMod 🔶      | Add Event Marker           | .                   |
 
 ## Server Side Content
 
@@ -190,7 +189,7 @@ This modpack does not provide a server side modpack, however some mods need to b
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)             | ✅     | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                        |
 | [Carpet](https://modrinth.com/mod/carpet)                                     | ✅     | ✅     | Bug fixes                                                                                                         |
 | [Carpet Extra](https://modrinth.com/mod/carpet-extra)                         | ✅     | ✅     | Bug fixes                                                                                                         |
-| [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | ✅i    | ✅i    | Bug fixes                                                                                                         |
+| [Carpet Fixes](https://modrinth.com/mod/carpet-fixes)                         | i      | i      | Bug fixes                                                                                                         |
 | [Cloth Config](https://modrinth.com/mod/cloth-config)                         | ✅     | ✅     | Library                                                                                                           |
 | [Fabric API](https://modrinth.com/mod/fabric-api/)                            | ✅     | ✅     | Library                                                                                                           |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                          | ✅     | ✅     | Reduces RAM usage                                                                                                 |
@@ -205,12 +204,12 @@ This modpack does not provide a server side modpack, however some mods need to b
 
 ### Datapacks
 
-| Name                                                                                      | 1.21.1 | 1.21.3 | Description                                          |
-| ----------------------------------------------------------------------------------------- | ------ | ------ | ---------------------------------------------------- |
-| [VanillaTweaks Datapacks](#vanillatweaks-datapacks)                                       | ✅     | ✅     | Adds little cools features                           |
-| [VanillaTweaks Crafting](#vanillatweaks-crafting)                                         | ✅     | ✅     | Adds a few additional crafting recipes               |
-| [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks)              | ✅i    | ✅i    | Allows to craft chests and sticks directly from logs |
-| [Craftable Invisibility Item Frame](https://modrinth.com/datapack/invisibility-itemframe) | ✅     | ✅     | Allows to craft invisible items frames               |
+| Name                                                                                       | 1.21.1 | 1.21.3 | Description                                          |
+| ------------------------------------------------------------------------------------------ | ------ | ------ | ---------------------------------------------------- |
+| [VanillaTweaks Datapacks](#vanillatweaks-datapacks)                                        | ✅     | ✅     | Adds little cools features                           |
+| [VanillaTweaks Crafting](#vanillatweaks-crafting)                                          | ✅     | ✅     | Adds a few additional crafting recipes               |
+| [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks) (custom fork) | ✅     | ✅     | Allows to craft chests and sticks directly from logs |
+| [Craftable Invisibility Item Frame](https://modrinth.com/datapack/invisibility-itemframe)  | ✅     | ✅     | Allows to craft invisible items frames               |
 
 #### VanillaTweaks Datapacks
 
