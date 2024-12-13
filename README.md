@@ -4,11 +4,11 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 
 ## Modpack Content
 
-### Mods
-
 - ✅ = Included both editions
 - 🔶 = Only included in the plus edition
 - i = currently incompatible
+
+### Mods
 
 #### Performance
 
@@ -56,6 +56,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | ------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
 | [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅     | Adds more information to the F3 screen                                                                                  |
+| [Click Through Updated](https://modrinth.com/mod/click-through-updated)   | ✅     | Allows clicking through item frames and signs hanging in front of chests                                                |
 | [ClientSort](https://modrinth.com/mod/clientsort)                         | ✅     | Adds inventory sorting                                                                                                  |
 | [Controlify](https://modrinth.com/mod/controlify)                         | ✅     | Adds controller support that is better than Bedrock's                                                                   |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)   | ✅     | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
@@ -143,12 +144,13 @@ The resource pack can be put together at [vanillatweaks.net](https://vanillatwea
 
 | Name                                                                             | 1.21.1 |
 | -------------------------------------------------------------------------------- | ------ |
+| [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
 | [BSL Shaders](https://modrinth.com/shader/bsl-shaders)                           | ✅     |
 | [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) | ✅     |
 | [Complementary Unbound](https://modrinth.com/shader/complementary-unbound)       | ✅     |
-| [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)               | ✅     |
 | [Kappa Shader](https://modrinth.com/shader/kappa-shader)                         | ✅     |
-| [Bliss Shaders](https://modrinth.com/shader/bliss-shader)                        | ✅     |
+| [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)               | ✅     |
+| [Solas Shader](https://modrinth.com/shader/solas-shader)                         | ✅     |
 
 ### Keybinds
 
@@ -215,4 +217,5 @@ This modpack does not provide a server side modpack, however some mods need to b
 - [VanillaTweaks Crafting](https://vanillatweaks.net/picker/crafting-tweaks/)
   - Universal Dyeing
   - Craftable Bundles (Rabbit Hide)
-- [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks)
+- [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks) (forked version)
+- [Craftable Invisibility Item Frame](https://modrinth.com/datapack/invisibility-itemframe)
