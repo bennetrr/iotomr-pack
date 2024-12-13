@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "a3f31789a9e455eb59b7f9b11b039f5eefe2a2214286f39483be890ed6ab77a0"
+hash = "3412e70c4170296fa4eca6bc526383f8d055bfea5c8be9c353f27788f0960eae"
 metafile = true
 
 [[files]]
@@ -385,11 +385,6 @@ metafile = true
 [[files]]
 file = "mods/scroll-for-worldedit.pw.toml"
 hash = "6cdd772ddcc36fc3b1844e98c8ae3b8cbf22db2060866c62a37e1a92cacfe728"
-metafile = true
-
-[[files]]
-file = "mods/shulker+.pw.toml"
-hash = "39229a29962bcc6378b8986192aaa142d12d9a5da8420daf6345a88052f846d9"
 metafile = true
 
 [[files]]
