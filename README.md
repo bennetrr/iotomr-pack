@@ -56,6 +56,7 @@ Minecraft modpack for my survival server (iotomr) based on Fabulously Optimized.
 | ------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
 | [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅     | Adds more information to the F3 screen                                                                                  |
+| [Click Through Updated](https://modrinth.com/mod/click-through-updated)   | ✅     | Allows clicking through item frames and signs hanging in front of chests                                                |
 | [ClientSort](https://modrinth.com/mod/clientsort)                         | ✅     | Adds inventory sorting                                                                                                  |
 | [Controlify](https://modrinth.com/mod/controlify)                         | ✅     | Adds controller support that is better than Bedrock's                                                                   |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)   | ✅     | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                  |
@@ -215,4 +216,5 @@ This modpack does not provide a server side modpack, however some mods need to b
 - [VanillaTweaks Crafting](https://vanillatweaks.net/picker/crafting-tweaks/)
   - Universal Dyeing
   - Craftable Bundles (Rabbit Hide)
-- [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks)
+- [Logs To Chest & Sticks](https://modrinth.com/datapack/logs-to-chest-sticks) (forked version)
+- [Craftable Invisibility Item Frame](https://modrinth.com/datapack/invisibility-itemframe)

@@ -145,6 +145,11 @@ hash = "96f48659cd5792581df59f735d1326eba0abbbe054f748420796d72dc2a3e683"
 metafile = true
 
 [[files]]
+file = "mods/click-through-updated.pw.toml"
+hash = "5dce60d7f65443cb0e150a613a9d2a42635ad78d44659b5faff77eacaed8eea4"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "7ab2c1f1f2151de38d4fa427ccf27663c24cbc40d924acd49ba81136746b98d5"
 metafile = true
