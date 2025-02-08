@@ -55,6 +55,7 @@ Minecraft modpack for my survival server based on [Fabulously Optimized](https:/
 
 | Name                                                                      | 1.21.1 | 1.21.4 | Description                                                                                                             |
 | ------------------------------------------------------------------------- | ------ | ------ | ----------------------------------------------------------------------------------------------------------------------- |
+| [Armor Poser](https://modrinth.com/mod/armor-poser)                       | ✅     | ✅     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats)         | ✅     | ✅     | Improves the statistics screen with a new layout, filters and a search bar                                              |
 | [BetterF3](https://modrinth.com/mod/betterf3)                             | ✅     | ✅     | Adds more information to the F3 screen                                                                                  |
 | [Click Through Updated](https://modrinth.com/mod/click-through-updated)   | ✅     |        | Allows clicking through item frames and signs hanging in front of chests                                                |
@@ -65,12 +66,14 @@ Minecraft modpack for my survival server based on [Fabulously Optimized](https:/
 | [Debugify](https://modrinth.com/mod/debugify)                             | ✅     | ✅     | Fixes [a set of bugs](https://wiki.download.fo/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
 | [e4mc](https://modrinth.com/mod/e4mc)                                     | ✅     | ✅     | Allows opening worlds to public access the same way you can open to LAN                                                 |
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ✅     | ✅     | Adds OptiFine resource pack support to FabricSkyboxes                                                                   |
+| [Freelook](https://modrinth.com/mod/freelook)                             | ✅     | ✅     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
 | [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)           | ✅     | ✅     | Adds modpack's clickable version number in title screen's bottom corner                                                 |
 | [MiniHUD](https://modrinth.com/mod/minihud)                               | ✅     | ✅     | Adds lines of information to the screen                                                                                 |
 | [MixinTrace](https://modrinth.com/mod/mixintrace)                         | ✅     | ✅     | Helps developers find the cause of crashes                                                                              |
 | [Mod Menu](https://modrinth.com/mod/modmenu)                              | ✅     | ✅     | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!)                           |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)                     | ✅     | ✅     | Enhances inventory mouse mechanics                                                                                      |
 | [More Chat History](https://modrinth.com/mod/morechathistory)             | ✅     | ✅     | Increases chat history limit                                                                                            |
+| [Roughly Enough Items](https://modrinth.com/mod/rei)                      | ✅     | ✅     | Shows all items with recipes and usages                                                                                 |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)        | ✅     | ✅     | A proximity voice chat for Minecraft with a variety of add-ons that offer additional features and functionalities       |
 | [Tweakeroo](https://modrinth.com/mod/tweakeroo)                           | ✅     | ✅     | Adds many tweaks like map and shulker box preview, freecam, full brightness                                             |
 | [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)         | ✅     | ✅     | Adds support for meta keys such as ALT, CTRL, and SHIFT in keybinds and multiple binds for each keybind                 |
@@ -78,9 +81,6 @@ Minecraft modpack for my survival server based on [Fabulously Optimized](https:/
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)            | ✅     | ✅     | World map with waypoints                                                                                                |
 | [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)         | ✅     | ✅     | Keeps your settings when updating the modpack                                                                           |
 | [Zoomify](https://modrinth.com/mod/zoomify)                               | ✅     | ✅     | Adds a scrollable and customizable zoom feature                                                                         |
-| [Armor Poser](https://modrinth.com/mod/armor-poser)                       | ✅     | ✅     | Adds a GUI for armor stands that lets you set its pose and change other properties                                      |
-| [Freelook](https://modrinth.com/mod/freelook)                             | ✅     | ✅     | Allows you to move the camera in third-person while keeping the player's rotation                                       |
-| [Roughly Enough Items](https://modrinth.com/mod/rei)                      | ✅     | ✅     | Shows all items with recipes and usages                                                                                 |
 
 #### Libraries
 
@@ -132,10 +132,10 @@ The resource pack can be put together at https://vanillatweaks.net/picker/resour
 - No Pumpkin Overlay
 - Dark UI
 - Numbered Hotbar
+- Smoother Font
+- Clearer Wither Hearts
 - Colored Ping Indicator
 - Literal Gamerule Names
-- Clearer Wither Hearts
-- Smoother Font
 
 ### Shader Packs
 
