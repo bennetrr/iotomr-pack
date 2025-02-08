@@ -1,3 +1,0 @@
-modpack
-iotomr
-OptiFine
