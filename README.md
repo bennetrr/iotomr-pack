@@ -92,6 +92,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Cloth Config](https://modrinth.com/mod/cloth-config)                     | ✅     | ✅     |
 | [Fabric API](https://modrinth.com/mod/fabric-api)                         | ✅     | ✅     |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | ✅     | ✅     |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)   |        | ✅     |
 | [Indium](https://modrinth.com/mod/indium)                                 | ✅     |        |
 | [MaLiLib](https://modrinth.com/mod/malilib)                               | ✅     | ✅     |
 | [TCDCommons API](https://modrinth.com/mod/tcdcommons)                     | ✅     | ✅     |
