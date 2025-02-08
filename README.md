@@ -211,7 +211,7 @@ This modpack does not provide a server side modpack, however some mods need to b
 | ----------------------------------------------------------------------------------------- | ------ | ------ | ---------------------------------------------------- |
 | [VanillaTweaks Datapacks](#vanillatweaks-datapacks)                                       | ✅     | ✅       | Adds little cools features                           |
 | [VanillaTweaks Crafting](#vanillatweaks-crafting)                                         | ✅     | ✅       | Adds a few additional crafting recipes               |
-| [Logs To Chest & Sticks](logs-to-chests-and-sticks)              | i    |        | Allows to craft chests and sticks directly from logs |
+| [Crafting Tweak: Logs to...](crafting-tweak-logs-to/Readme.md)              | ✅    | ✅       | Allows to craft chests and sticks directly from logs |
 | [Craftable Invisibility Item Frame](https://modrinth.com/datapack/invisibility-itemframe) | ✅     | ✅       | Allows to craft invisible items frames               |
 
 #### VanillaTweaks Datapacks
