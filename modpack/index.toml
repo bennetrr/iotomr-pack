@@ -106,6 +106,11 @@ hash = "4cc55b84d857c044d9be652a5a4c315a2bab45d54957bf5adc386e8686d0160a"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "a6d3948c701ecaf43717a3fc304d9f12b62ae364b838626f36091d349bba470b"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "641e6f5ca7a7bf0e86eaa5548fd573cda2cb97a7e3785456294204d0984eb2b1"
 metafile = true
@@ -226,6 +231,11 @@ hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
 
 [[files]]
+file = "mods/freelook.pw.toml"
+hash = "9d760e970394bfd8d2b5f7586b3b712cedfbedca2b73c31b430544f69f740e1f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2afcad5fd7e44de7649aef824895717eeb14520a2cd1abe2e1e29ce397a911e4"
 metafile = true
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0c086fd5772bfc30dbc0d1d8b2784b9cc5da40e8dadebf2ca90ab65e6da1133f"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "fd9f9969ca944b96b307ec7ab7750375420e99da3da22b1dd9b2ac525390f248"
 metafile = true
 
 [[files]]
