@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc_minecraft-fabric-5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/ul9OslWB/e4mc_minecraft-fabric-5.2.1.jar"
+hash-format = "sha256"
+hash = "dc1f221f43e3737c3fdc3b4e73bee4d03577ad90c60cdf625068c78ae864e466"
+
+[update]
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "ul9OslWB"

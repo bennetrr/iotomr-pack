@@ -1,0 +1,13 @@
+name = "Kappa Shader"
+filename = "Kappa_v5.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8161YLz/versions/KO0EB3IW/Kappa_v5.2.zip"
+hash-format = "sha256"
+hash = "382fadd7d389260522099b25f9dc693bbc81b89220ec5b55459cce74e6c264d0"
+
+[update]
+[update.modrinth]
+mod-id = "Y8161YLz"
+version = "KO0EB3IW"

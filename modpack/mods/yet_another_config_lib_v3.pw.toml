@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-3.6.2+1.21.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/VtWuZoXP/YetAnotherConfigLib-3.6.2%2B1.21.4-fabric.jar"
+hash-format = "sha256"
+hash = "df706a1e5456023566d02874278bff84d7b6c61b01f1e065751dcbcd74b050c2"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "VtWuZoXP"

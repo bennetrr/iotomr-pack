@@ -1,0 +1,13 @@
+name = "Cloth Config API (Fabric/Forge/NeoForge)"
+filename = "cloth-config-17.0.144-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar"
+hash-format = "sha256"
+hash = "1fda0c4a89d4f075e51b3eb5570a4912870656d252d806ea3091d2bbc06781ea"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "TJ6o2sr4"
