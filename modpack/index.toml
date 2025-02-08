@@ -98,7 +98,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7f0bc7c4b634c81970bfcd7402037229d1fa2320e9a9faaba5d53c1ed9fe9929"
+hash = "efc26eb9fd761f13aade38d7b3c97655b4e83a530ad1d90a576a193068a4b66c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -391,11 +391,6 @@ hash = "fe9256a7ff7dffc87d9a4dcfb15e501a6512c480af278c27334b5a008fe07e2c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "9c7923418e374b31c36573d62b5cce05650989985ea98ca73dcb1677c59dfb4c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "7d517eb888e021198766bef30005a6cbf8ac7650f3bbd4b21731b6142e8e4678"
 metafile = true
@@ -406,7 +401,7 @@ hash = "1dc6b9bf9485d53c3e7574b603de3324a83c14c00179f15c599a946ffabf5315"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "d4241abda0c2734e8ecdd76e7f8edb0014e5f4f8d29bdb48218129e16ca3a068"
+hash = "1a96e39342e0b72bc1d0e27ff8cdcbc3074dbb199cdec8a0cedf643c009f2e10"
 metafile = true
 
 [[files]]
