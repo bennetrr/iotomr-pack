@@ -209,10 +209,11 @@ This modpack does not provide a server side modpack, however some mods need to b
 
 The datapack can be put together at https://vanillatweaks.net/picker/datapacks/.
 
+- Armor Statues
 - More Mob Heads
 - Player Head Drops
-- Wandering Trades (Hermit Edition)
 - Silence Mobs
+- Wandering Trades
 - Double Shulker Shells
 - Unlock All Recepies
 - Anti Enderman Grief
@@ -223,4 +224,3 @@ The datapack can be put together at https://vanillatweaks.net/picker/datapacks/.
 The datapack can be put together at https://vanillatweaks.net/picker/crafting-tweaks/.
 
 - Universal Dyeing
-- Craftable Bundles (Rabbit Hide)
