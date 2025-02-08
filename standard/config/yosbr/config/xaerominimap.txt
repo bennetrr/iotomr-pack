@@ -1,3 +1,0 @@
-updateNotification:false
-infoDisplay:coords:false:15:-1
-module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;

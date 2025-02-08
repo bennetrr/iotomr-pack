@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": {
+      "+depends": {
+        "fabricloader": ">=0.16.10"
+      }
+    },
+    "minecraft": {
+      "+recommends": {
+        "iotomr": ">0.0.1"
+      }
+    },
+    "optigui": {
+      "recommends": {}
+    }
+  }
+}
