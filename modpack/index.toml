@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/capes.json5"
-hash = "9f55ddf355ed1a3af8c67ee97d22f7001b656f816ec34acbd874f0c08893d8fe"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "64d91a68faf326e93675c75f7f812d430c87bcf02fa38ea345652f88f8404c93"
+hash = "b3ffb6cb2495c952011603dad3045c6b8350f763ecf3fd75c139c24b2a571cd7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -62,7 +58,7 @@ hash = "d413ec2290097aecedbb81855b160475dbc51e69844dec090d5082a9fc316dec"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "f93a27dd478f8e48017d10a8bcf48cafddc5d1291ca55b5cf26a11283b26094d"
+hash = "03ff88bc4a591e25b2c89fbfac3049b563e83bd13f16c21413b98977beaf7365"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -102,7 +98,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4647ff80af075bf39567e9a56d6a031943bd3604edf3fb60c21a86ac10538fcc"
+hash = "7f0bc7c4b634c81970bfcd7402037229d1fa2320e9a9faaba5d53c1ed9fe9929"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -400,7 +396,7 @@ hash = "7d517eb888e021198766bef30005a6cbf8ac7650f3bbd4b21731b6142e8e4678"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r633958_MC1.21.x.zip"
+file = "resourcepacks/VanillaTweaks.zip"
 hash = "1dc6b9bf9485d53c3e7574b603de3324a83c14c00179f15c599a946ffabf5315"
 
 [[files]]
