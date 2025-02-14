@@ -14,6 +14,7 @@ jobs:
     outputs:
       version: ${{ steps.get-release-version.outputs.version }}
       version-name: ${{ steps.get-release-version.outputs.version-name }}
+      minecraft-version: ${{ steps.get-minecraft-version.outputs.minecraft-version }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,6 +29,12 @@ jobs:
           git-username: bennetrr
           git-email: 76742318+bennetrr@users.noreply.github.com
           mode: semantic
+
+      - name: Get Minecraft version
+        id: get-minecraft-version
+        run: |
+          sudo apt install -y yq
+          tomlq -r '"minecraft-version=" + .versions.minecraft' modpack/pack.toml >> $GITHUB_OUTPUT
 
   build-modpack:
     name: Build modpack
@@ -52,15 +59,9 @@ jobs:
           sudo mv packwiz /usr/bin/packwiz
           sudo chmod +x /usr/bin/packwiz
 
-      - name: Setup python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.13' 
-
       - name: Install jq and yq
         run: |
-          sudo apt install -y jq
-          pip install yq
+          sudo apt install -y jq yq
 
       - name: Set version fields
         run: |
@@ -125,7 +126,7 @@ jobs:
       - name: Create GitHub release
         uses: ncipollo/release-action@v1
         with:
-          name: Version ${{ needs.setup.outputs.version }}
+          name: Version ${{ needs.setup.outputs.version }} for Minecraft ${{ needs.setup.outputs.minecraft-version }}
           tag: ${{ needs.setup.outputs.version-name }}
           generateReleaseNotes: true
           commit: ${{ github.head_ref || github.ref_name }}

@@ -16,7 +16,7 @@ Minecraft modpack for my survival server based on [Fabulously Optimized](https:/
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)         | ✅     | ✅     | Renders Minecraft slower if it is in the background to reduce CPU usage |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe)     | ✅     | ✅     | Makes chests, signs, beds, etc. render faster                           |
 | [Entity Culling](https://modrinth.com/mod/entityculling)    | ✅     | ✅     | Stops rendering entities that are behind walls                          |
-| [FastQuit](https://modrinth.com/mod/fastquit)               | ✅     | i      | Quit from single player worlds instantly                                |
+| [FastQuit](https://modrinth.com/mod/fastquit)               | ✅     | ✅     | Quit from single player worlds instantly                                |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)        | ✅     | ✅     | Reduces RAM usage                                                       |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | ✅     | ✅     | Optimizes mobs, container blocks, GUI, HUD                              |
 | [Language Reload](https://modrinth.com/mod/language-reload) | ✅     | ✅     | Makes language switching instant, adds a search bar                     |
@@ -103,7 +103,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | Name                                                                                                                           | 1.21.1 | 1.21.4 | Description                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | -------------------------------------------------------------------------------------------------------------------- |
 | [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)                                               | ✅     | ✅     | Explains chat reporting in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons |
-| [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)                                                       | ✅     |      | Imitates OptiFine's "Better Grass" (fast mode) icons                                                                 |
+| [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)                                                       | ✅     |        | Imitates OptiFine's "Better Grass" (fast mode) icons                                                                 |
 | [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)                                                         | ✅     | ✅     | Dynamic animated entities to freshen your Minecraft experience                                                       |
 | [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) | ✅     | ✅     | Explains what each mod does in a consistent and clear way on Mod Menu                                                |
 | [Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium)                                           | ✅     | ✅     | Adds unofficial translations for Sodium (video settings)                                                             |

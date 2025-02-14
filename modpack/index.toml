@@ -212,12 +212,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e6402f6bd5d8fa6217762a4c9c614ad3edb5d96c5e4d5e4fe1f6522aec552a1d"
+hash = "0ed5ad630aabb0c3ca89f413a6dba81734e378e8bc825b7d8ca0f9349d7d0b27"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "37e3449a2737753aaa1501e43240511e27f8c0b2177bc3c7ac53ef783d512a50"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9593b7fe0281eb6a16cbdc2f48e6b04ae2da42b5460a81b148e1e58c0d0a5482"
+hash = "2579c48dad78eada514dc3ed97d9288539036cc2b8e5ffc456991ee359fb4e4c"
 metafile = true
 
 [[files]]
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "670a78099bc50290d58d4ae764c8a2d8bd735cfe4a81391591442cd61af12b22"
+hash = "2763f138f2ffe1cb3e27941f0673fb99e40f0f8e93441451217df46e19aa18b4"
 metafile = true
 
 [[files]]
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "16f87bfacfa15e5cc3f1075f078a3803d81f129acb40f133fbf9e4a7ab4b390c"
+hash = "20bef67e802475f9a6b913b050e9be19a260a3037a3e4f06bdd4135b31abe3ca"
 metafile = true
 
 [[files]]
@@ -357,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b3432e1dccfa24682f2f747134b87d6fe98727e743e372d853f3719667310eaa"
+hash = "c7807406d52bcd6ad2f6374a0b98e4961cffe96b010a2abec2d9f3b47ce9c2e6"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4542eb5bfa39c2b5c3439845a87af897506dd968b433f10b289d5661db9f60aa"
+hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
 metafile = true
 
 [[files]]
