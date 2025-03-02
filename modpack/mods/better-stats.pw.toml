@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/OZooXFzU/betterstats-3.13.8%2Bfabric-1.21.4.jar"
-hash-format = "sha256"
-hash = "673a747bbfdf626f72a78b24e28496a620999a3be3207026ca08a994393d6a1e"
+hash-format = "sha512"
+hash = "c0d7050d92ce68058bdcfc8bc9fb36a5510b95effd8ee173b78556823e06bf8524e30496e95ffed25113fb5f8db673c931306d8e91056b1d9f66632a073a33b3"
 
 [update]
 [update.modrinth]

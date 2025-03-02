@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/GGWgvqjm/bettermounthud-1.2.5.jar"
-hash-format = "sha256"
-hash = "4723ebac23c3a210117f2231155bc869942e6e4cdcee4b0f26c6fcf355458330"
+hash-format = "sha512"
+hash = "8cbaa8acf6a3a9e32f9893f3aed15abc974fa55568726d52b9915bb760bb4bf726aec82a6459f3290dd946cfe93203150c6c77928d3ebd0f7732099c14ac6585"
 
 [update]
 [update.modrinth]
