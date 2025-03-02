@@ -1,13 +1,13 @@
 name = "too-many-shortcuts"
-filename = "too-many-shortcuts-0.0.7+mc.1.21.4.jar"
+filename = "too-many-shortcuts-0.0.8+mc.1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LH6juGaI/versions/ljylhaX1/too-many-shortcuts-0.0.7%2Bmc.1.21.4.jar"
-hash-format = "sha256"
-hash = "320fefa167f3860c94a69ffa0b22f73e4ff9abd2beb53969e926d04581ce7598"
+url = "https://cdn.modrinth.com/data/LH6juGaI/versions/7FFe24rS/too-many-shortcuts-0.0.8%2Bmc.1.21.4.jar"
+hash-format = "sha512"
+hash = "4a2bcecf69192a179342a310766ff7565927bc7ff283d3035f71b75ad805808741b8a7800216a9cc474969ffcac2e8f5e87a1242c81234d269053acec30344f0"
 
 [update]
 [update.modrinth]
 mod-id = "LH6juGaI"
-version = "ljylhaX1"
+version = "7FFe24rS"
