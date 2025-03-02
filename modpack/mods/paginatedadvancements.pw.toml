@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pJogNFap/versions/9c0Bw8AD/paginatedadvancements-2.6.1%2B1.21.4.jar"
-hash-format = "sha256"
-hash = "4fa464b4a417d6c5bc75031d8de30964a6b26d8b09b7dd02b0b341db27302a70"
+hash-format = "sha512"
+hash = "c3eace0113fdbfb72391592c311c39a068fb3ab38609e718fd2fbad566e42df8a0b94aab162372dcfb90c6a137421fdb0f5c0c5a9c30aecaf4d49e74e71905ec"
 
 [update]
 [update.modrinth]

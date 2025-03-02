@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fJi8nm80/versions/y8GcHqv3/clickthrough-plus-3.2%2B1.21.2.jar"
-hash-format = "sha256"
-hash = "230d695fb65fb0d73bdac78473cf693d37726713367826b222a80a80b50c788b"
+hash-format = "sha512"
+hash = "6e7e6be243decd83a70d6deef0e600aff86195025b3c584b2caf99a6f39e98b86871cb7d2fe4e25aec01a647a64e34df27d6f73ba1fe422b843c8942db0040ca"
 
 [update]
 [update.modrinth]
