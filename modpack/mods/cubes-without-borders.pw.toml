@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/7JJnrLXi/cwb-fabric-3.0.0%2Bmc1.21.3.jar"
-hash-format = "sha256"
-hash = "0e2fe3c8d60a4987680d8b6c1bb5d44479de80a26ec042f22138ec4b73a8e22d"
+hash-format = "sha512"
+hash = "563d996e6426ffc971a6dd7686f3870254704411cd24fea95b12e8d1af2118c11ce7234052ddfd97f7178ef6432dfe785c4b2b665f74b31b6bc4d64c27d740e9"
 
 [update]
 [update.modrinth]
