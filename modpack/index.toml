@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7acd6c17fa819ef09175d2f6ad76bdf73dcd1c40171375a41aab33cb53452ca0"
+hash = "89b0be7776a3de8cf4210f7d774bb2e59991a454a32e000b24217cdbb001cccf"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "251f665af026e677b1c52b3c3d23cf86918182469756fcda4eab2650fde4e7a6"
+hash = "ae8ee6b1428f39387280f97acf0db1d9b55aecf53c3546ceb2f790f8c3c6abf1"
 metafile = true
 
 [[files]]
@@ -141,13 +141,8 @@ hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
-file = "mods/click-through-updated.pw.toml"
-hash = "5dce60d7f65443cb0e150a613a9d2a42635ad78d44659b5faff77eacaed8eea4"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "48b745d548b1b0d7f67222d6ae8140b32e2dc0dffa2b4932c4eba55994c8d990"
+hash = "134242639876d2310610e004c22dd0299ab0f88ab0d8b77c037f37ea2566167c"
 metafile = true
 
 [[files]]
@@ -182,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "af9a9f67554f844c084f8f6c7f430481d30ef6cd093e9e68b884e5c9d2580c1e"
+hash = "8e7de1d1c12724468eda895daddf73601b7f253c5883057ad10c49a2a59635ba"
 metafile = true
 
 [[files]]
@@ -212,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "55834f322dc7d9a7d5365ac6b4dd5f6f72152f798bd87e68c9e373498c9fed12"
 metafile = true
 
 [[files]]
@@ -242,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e1896a22d75d3104b2030bb2e95562e5eba7a46f0cdb9206a1d29f983ad3d6a"
+hash = "9fb6f196800871324887863d0808014fc2a13e56f952aa7a0525121e94ed7bb5"
 metafile = true
 
 [[files]]
@@ -252,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+hash = "dd21c75c6226beb1d2c868b1beb30bf2d1ffd8de510f4a240bd42ff4c43608c8"
 metafile = true
 
 [[files]]
@@ -262,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3acb684bb735fa09a6b0b50a76e3dcfb72f52f2740b4238adfd5f51004fa65f1"
+hash = "266e0d241016f41537f20de5c79e5fabd708fb04d944065d45eb669797737faa"
 metafile = true
 
 [[files]]
@@ -297,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "2579c48dad78eada514dc3ed97d9288539036cc2b8e5ffc456991ee359fb4e4c"
+hash = "9f25a18ff13e50b74324422332c633441f1b0ba951468908782d91273bee7abc"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9d2ee1ef3783c053c4be1d50c52b3263e8c2b716451451f399bc3da7e261da91"
+hash = "dfe6db1e93adf1176739ccdba87c4e53e57d625d1575af301441f00c9fd11740"
 metafile = true
 
 [[files]]
@@ -327,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "20bef67e802475f9a6b913b050e9be19a260a3037a3e4f06bdd4135b31abe3ca"
+hash = "d3fe9a3d031f3b40b77ce3a02798005fa927bf9b1836ab6f570745b2f853cdd9"
 metafile = true
 
 [[files]]
@@ -372,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-shortcuts.pw.toml"
-hash = "25a1fd7223ac47d877a0eccbe09fb6b42a550dbec772f6b3cb4b4de0afb63d3e"
+hash = "22cd36a77928838ef8743b0f214583fc024dec08ab3bbbdeef5b5ff3f3357774"
 metafile = true
 
 [[files]]
@@ -382,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
+hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
 metafile = true
 
 [[files]]
@@ -407,12 +402,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "c0614ff6f888087ce2f4d0ade02b005679b503dc7d7109e30904abbc88cabc1b"
+hash = "20630203e7b77ba9846562b8c3890d3e0ac8f9e9b87f481e7096008dba674eb4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d494d96fd2da8af4ed1448028a323ecf5a6e3a7f74661b5617e1f2ac0ac35bb6"
+hash = "84af954dfc0652254e6c488576cf668dfe9a53e2a55bf5134f0aa987ad586065"
 metafile = true
 
 [[files]]
@@ -461,5 +456,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "33d2101250979713e0c214c608ecc51f8473d322a45e58ca0a6975f7f1f8ba3f"
+hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
 metafile = true
